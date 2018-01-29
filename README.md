@@ -1,2 +1,2 @@
 # install_jdk
-linux安装jdk的shell脚本
+linux（rhel、centos）安装jdk的shell脚本
